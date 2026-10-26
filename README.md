@@ -1,1 +1,1 @@
-![ฺBanner]([https://kappa.lol/pm2ZVk])
+![Banner](https://kappa.lol/pm2ZVk)
